@@ -1,1 +1,1 @@
-# pok-dex
+Esta é uma aplicação web simples que simula uma Pokédex, permitindo aos usuários explorar informações sobre diferentes Pokémon. O projeto foi desenvolvido usando HTML, CSS e JavaScript puro e utiliza a API pública do PokeAPI para obter dados detalhados sobre os Pokémon.
